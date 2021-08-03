@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-20 00:28:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 02:03:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 02:53:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 03:10:48 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-04-20 03:10:49 --> 404 Page Not Found: Admin/jQuery-File-Upload
+ERROR - 2021-04-20 03:11:04 --> 404 Page Not Found: Assets/global
+ERROR - 2021-04-20 03:11:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-04-20 03:11:12 --> 404 Page Not Found: Public/assets
+ERROR - 2021-04-20 03:11:13 --> 404 Page Not Found: Assets/jQuery-File-Upload
+ERROR - 2021-04-20 05:31:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 06:28:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 09:24:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 09:57:17 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-04-20 09:57:17 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-04-20 09:57:19 --> 404 Page Not Found: Public/assets
+ERROR - 2021-04-20 09:57:22 --> 404 Page Not Found: Public/assets
+ERROR - 2021-04-20 09:57:23 --> 404 Page Not Found: Public/assets
+ERROR - 2021-04-20 11:27:59 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-04-20 11:27:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-04-20 11:56:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 13:20:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 14:22:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 16:44:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 16:46:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 16:50:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 17:10:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-04-20 17:10:13 --> 404 Page Not Found: Public/admin
+ERROR - 2021-04-20 17:10:13 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-04-20 17:10:13 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-20 17:10:13 --> 404 Page Not Found: Theme/assets
+ERROR - 2021-04-20 17:10:14 --> 404 Page Not Found: Plugins/jQuery-File-Upload
+ERROR - 2021-04-20 22:21:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-20 22:21:18 --> 404 Page Not Found: Robotstxt/index

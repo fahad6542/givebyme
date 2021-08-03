@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-15 00:00:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 00:19:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 02:37:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 04:10:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 04:36:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 04:42:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 05:01:36 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-06-15 06:54:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 07:51:09 --> 404 Page Not Found: Wp-json/wp
+ERROR - 2021-06-15 07:51:09 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-06-15 07:51:09 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-06-15 09:00:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 11:52:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 13:39:39 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-06-15 16:25:37 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-06-15 16:25:38 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-06-15 17:31:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-15 19:36:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-15 22:39:45 --> 404 Page Not Found: Env/index

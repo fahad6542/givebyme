@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-18 00:58:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 01:35:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 02:15:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 02:35:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 04:43:39 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-18 05:05:14 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-18 06:15:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 07:23:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 08:45:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 13:46:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 16:00:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 23:01:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-18 23:41:15 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-11-18 23:42:23 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-11-18 23:43:22 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-11-18 23:43:33 --> 404 Page Not Found: Backup/wp-includes
+ERROR - 2020-11-18 23:44:09 --> 404 Page Not Found: En/wp-includes
+ERROR - 2020-11-18 23:44:24 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-11-18 23:45:54 --> 404 Page Not Found: Www/wp-includes
+ERROR - 2020-11-18 23:46:30 --> 404 Page Not Found: Staging/wp-includes
+ERROR - 2020-11-18 23:47:31 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-11-18 23:47:42 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-11-18 23:48:25 --> 404 Page Not Found: Newsite/wp-includes
+ERROR - 2020-11-18 23:48:36 --> 404 Page Not Found: V2/wp-includes
+ERROR - 2020-11-18 23:48:47 --> 404 Page Not Found: Oldsite/wp-includes
+ERROR - 2020-11-18 23:48:57 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-11-18 23:49:08 --> 404 Page Not Found: Portal/wp-includes
+ERROR - 2020-11-18 23:49:30 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-11-18 23:50:06 --> 404 Page Not Found: V1/wp-includes
+ERROR - 2020-11-18 23:50:16 --> 404 Page Not Found: 1/wp-includes
+ERROR - 2020-11-18 23:50:27 --> 404 Page Not Found: Store/wp-includes
+ERROR - 2020-11-18 23:50:38 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-11-18 23:50:49 --> 404 Page Not Found: Blogs/wp-includes

@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-18 00:21:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 00:21:27 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-07-18 02:19:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 06:32:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 07:03:31 --> 404 Page Not Found: Dup-installer/main.installer.php
+ERROR - 2021-07-18 07:08:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 09:43:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 12:48:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 12:58:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 14:08:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 14:55:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 15:00:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 17:13:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-18 17:13:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-18 17:13:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-18 17:13:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-18 18:18:57 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2021-07-18 18:18:58 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2021-07-18 18:18:58 --> 404 Page Not Found: Pma/index
+ERROR - 2021-07-18 18:18:59 --> 404 Page Not Found: Myadmin/index
+ERROR - 2021-07-18 18:18:59 --> 404 Page Not Found: Sql/index
+ERROR - 2021-07-18 18:19:00 --> 404 Page Not Found: Mysql/index
+ERROR - 2021-07-18 18:19:00 --> 404 Page Not Found: Mysqladmin/index
+ERROR - 2021-07-18 18:19:01 --> 404 Page Not Found: Db/index
+ERROR - 2021-07-18 18:19:02 --> 404 Page Not Found: Database/index
+ERROR - 2021-07-18 18:19:03 --> 404 Page Not Found: Adminerphp/index
+ERROR - 2021-07-18 18:19:03 --> 404 Page Not Found: Sqlphp/index
+ERROR - 2021-07-18 18:29:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 19:13:44 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-07-18 19:13:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-07-18 19:18:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 20:45:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-18 22:42:27 --> 404 Page Not Found: Robotstxt/index

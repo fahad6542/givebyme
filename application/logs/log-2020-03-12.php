@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-12 00:33:06 --> 404 Page Not Found: Wordpress/license.txt
+ERROR - 2020-03-12 01:05:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 04:00:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 04:11:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 08:27:10 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2020-03-12 08:27:11 --> 404 Page Not Found: Administrator/help
+ERROR - 2020-03-12 08:27:11 --> 404 Page Not Found: Administrator/language
+ERROR - 2020-03-12 08:27:12 --> 404 Page Not Found: Plugins/system
+ERROR - 2020-03-12 08:27:12 --> 404 Page Not Found: Administrator/index
+ERROR - 2020-03-12 08:27:12 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2020-03-12 08:27:13 --> 404 Page Not Found: Admin/view
+ERROR - 2020-03-12 08:27:14 --> 404 Page Not Found: Admin/includes
+ERROR - 2020-03-12 08:27:14 --> 404 Page Not Found: Images/editor
+ERROR - 2020-03-12 08:27:14 --> 404 Page Not Found: Js/header-rollup-554.js
+ERROR - 2020-03-12 08:27:15 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-03-12 08:27:15 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2020-03-12 08:27:16 --> 404 Page Not Found: Env/index
+ERROR - 2020-03-12 08:39:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 08:39:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 09:34:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 13:55:00 --> 404 Page Not Found: Wordpress/license.txt
+ERROR - 2020-03-12 17:09:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 19:12:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 19:32:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 19:51:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-03-12 21:17:38 --> 404 Page Not Found: Old/license.txt
+ERROR - 2020-03-12 23:49:52 --> 404 Page Not Found: Robotstxt/index

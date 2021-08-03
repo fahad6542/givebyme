@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-04 01:37:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 01:43:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 01:55:45 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-04 01:55:45 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-04 01:55:51 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-04 01:55:52 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-04 01:55:53 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-04 03:46:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 07:37:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-05-04 07:37:05 --> 404 Page Not Found: Plugins/jqueryupload
+ERROR - 2021-05-04 07:37:05 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-04 07:37:05 --> 404 Page Not Found: Public/admin
+ERROR - 2021-05-04 07:37:05 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-04 08:05:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 09:19:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 14:07:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 14:12:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 15:02:01 --> 404 Page Not Found: Assets/jQuery-File-Upload
+ERROR - 2021-05-04 15:02:01 --> 404 Page Not Found: Admin/jQuery-File-Upload
+ERROR - 2021-05-04 15:02:06 --> 404 Page Not Found: Theme/assets
+ERROR - 2021-05-04 15:02:08 --> 404 Page Not Found: Theme/assets
+ERROR - 2021-05-04 15:02:09 --> 404 Page Not Found: Theme/assets
+ERROR - 2021-05-04 15:29:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 16:30:04 --> 404 Page Not Found: Campaign/detail
+ERROR - 2021-05-04 16:39:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 19:20:50 --> 404 Page Not Found: Env/index
+ERROR - 2021-05-04 20:27:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-04 21:28:47 --> 404 Page Not Found: Robotstxt/index

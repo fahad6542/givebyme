@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-02 04:41:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-02 06:03:05 --> 404 Page Not Found: Components/com_jbusinessdirectory
+ERROR - 2021-07-02 11:07:16 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-02 11:07:16 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-02 11:07:16 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-07-02 11:18:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-02 11:20:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-02 11:34:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-02 11:35:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-02 12:56:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-02 13:47:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-02 16:48:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-02 16:55:59 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-07-02 16:55:59 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-07-02 16:55:59 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-07-02 16:56:00 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-07-02 16:56:01 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-07-02 16:56:01 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-07-02 16:56:01 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-07-02 16:56:01 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-07-02 16:56:01 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-07-02 19:09:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-02 19:50:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-02 23:47:33 --> 404 Page Not Found: Robotstxt/index

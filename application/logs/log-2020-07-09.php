@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-09 02:35:49 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2020-07-09 07:42:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-09 07:58:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-09 08:12:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-09 11:10:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-09 11:23:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-09 11:23:29 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-07-09 11:23:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-09 16:31:33 --> 404 Page Not Found: Env/index
+ERROR - 2020-07-09 16:31:36 --> 404 Page Not Found: Api/.env
+ERROR - 2020-07-09 16:31:38 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-07-09 16:31:39 --> 404 Page Not Found: Test/.env
+ERROR - 2020-07-09 16:31:41 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-07-09 16:31:43 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-07-09 16:31:46 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-07-09 16:31:49 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-07-09 16:31:53 --> 404 Page Not Found: System/.env
+ERROR - 2020-07-09 16:31:55 --> 404 Page Not Found: Public/.env
+ERROR - 2020-07-09 16:31:58 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-07-09 16:52:00 --> 404 Page Not Found: Env/index
+ERROR - 2020-07-09 16:52:02 --> 404 Page Not Found: Api/.env
+ERROR - 2020-07-09 16:52:05 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-07-09 16:52:07 --> 404 Page Not Found: Test/.env
+ERROR - 2020-07-09 16:52:09 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-07-09 16:52:11 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-07-09 16:52:13 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-07-09 16:52:15 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-07-09 16:52:18 --> 404 Page Not Found: System/.env
+ERROR - 2020-07-09 16:52:20 --> 404 Page Not Found: Public/.env
+ERROR - 2020-07-09 16:52:21 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-07-09 18:06:20 --> 404 Page Not Found: Robotstxt/index

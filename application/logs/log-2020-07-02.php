@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-02 04:10:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 04:47:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 10:56:32 --> 404 Page Not Found: Wp/wp-admin
+ERROR - 2020-07-02 10:56:36 --> 404 Page Not Found: New/wp-admin
+ERROR - 2020-07-02 11:14:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 12:19:29 --> 404 Page Not Found: Env/index
+ERROR - 2020-07-02 16:02:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 17:45:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 18:12:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-02 19:06:04 --> 404 Page Not Found: Oluxphp/index
+ERROR - 2020-07-02 19:06:05 --> 404 Page Not Found: Indoxploitphp/index
+ERROR - 2020-07-02 19:06:06 --> 404 Page Not Found: Indoxploitphp/index
+ERROR - 2020-07-02 19:06:07 --> 404 Page Not Found: Wsophp/index
+ERROR - 2020-07-02 19:06:08 --> 404 Page Not Found: Images/index
+ERROR - 2020-07-02 19:06:09 --> 404 Page Not Found: Uploads/index
+ERROR - 2020-07-02 19:06:09 --> 404 Page Not Found: Img/index
+ERROR - 2020-07-02 19:06:11 --> 404 Page Not Found: Gallery/index
+ERROR - 2020-07-02 19:06:11 --> 404 Page Not Found: Files/index
+ERROR - 2020-07-02 19:06:12 --> 404 Page Not Found: Pdf/index
+ERROR - 2020-07-02 19:06:12 --> 404 Page Not Found: Docs/index
+ERROR - 2020-07-02 19:06:13 --> 404 Page Not Found: Upphp/index
+ERROR - 2020-07-02 19:06:14 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2020-07-02 19:06:22 --> 404 Page Not Found: Shellphp/index
+ERROR - 2020-07-02 20:40:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 22:33:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 23:10:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 23:45:43 --> 404 Page Not Found: Robotstxt/index

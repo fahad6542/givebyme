@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-01 04:51:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-01 08:52:45 --> 404 Page Not Found: Env/index
+ERROR - 2020-06-01 09:47:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-01 11:01:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-01 12:15:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-01 14:41:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-01 14:41:58 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2020-06-01 14:41:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-01 16:22:09 --> 404 Page Not Found: Env/index
+ERROR - 2020-06-01 16:22:10 --> 404 Page Not Found: Api/.env
+ERROR - 2020-06-01 16:22:11 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-06-01 16:22:11 --> 404 Page Not Found: Test/.env
+ERROR - 2020-06-01 16:22:13 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-06-01 16:22:14 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-06-01 16:22:16 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-06-01 16:22:33 --> 404 Page Not Found: System/.env
+ERROR - 2020-06-01 16:22:33 --> 404 Page Not Found: Public/.env
+ERROR - 2020-06-01 16:22:33 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-06-01 16:32:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-01 16:42:29 --> 404 Page Not Found: Env/index
+ERROR - 2020-06-01 16:42:29 --> 404 Page Not Found: Api/.env
+ERROR - 2020-06-01 16:42:30 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-06-01 16:42:30 --> 404 Page Not Found: Test/.env
+ERROR - 2020-06-01 16:42:31 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-06-01 16:42:31 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-06-01 16:42:32 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-06-01 16:42:33 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-06-01 16:42:35 --> 404 Page Not Found: System/.env
+ERROR - 2020-06-01 16:42:36 --> 404 Page Not Found: Public/.env
+ERROR - 2020-06-01 16:42:37 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-06-01 21:17:52 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-01 00:21:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 02:48:53 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-05-01 02:56:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 02:57:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 02:57:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 04:00:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 04:05:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 06:16:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 06:34:13 --> 404 Page Not Found: Public/admin
+ERROR - 2021-05-01 10:42:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-01 14:02:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 16:00:44 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-05-01 16:00:44 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-05-01 16:00:44 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-05-01 16:00:45 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-05-01 16:15:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 17:51:34 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-01 18:49:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 18:53:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 20:51:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 21:29:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 21:34:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-01 22:13:55 --> 404 Page Not Found: Robotstxt/index

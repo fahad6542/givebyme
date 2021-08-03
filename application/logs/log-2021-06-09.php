@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-09 01:34:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 03:12:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 03:12:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 04:07:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 04:09:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 06:46:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 08:04:07 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-06-09 08:04:09 --> 404 Page Not Found: Wp/index
+ERROR - 2021-06-09 08:04:22 --> 404 Page Not Found: Blog/index
+ERROR - 2021-06-09 08:04:25 --> 404 Page Not Found: New/index
+ERROR - 2021-06-09 08:04:27 --> 404 Page Not Found: Old/index
+ERROR - 2021-06-09 08:04:28 --> 404 Page Not Found: Newsite/index
+ERROR - 2021-06-09 08:04:28 --> 404 Page Not Found: Test/index
+ERROR - 2021-06-09 08:04:29 --> 404 Page Not Found: Main/index
+ERROR - 2021-06-09 10:57:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 11:05:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 11:05:40 --> 404 Page Not Found: Campaign/detail
+ERROR - 2021-06-09 11:12:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-09 11:12:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-09 13:00:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 13:00:55 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-06-09 13:00:56 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-06-09 14:49:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 15:43:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-09 16:31:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 16:44:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 17:03:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 17:04:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 17:20:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-09 18:35:54 --> 404 Page Not Found: Robotstxt/index

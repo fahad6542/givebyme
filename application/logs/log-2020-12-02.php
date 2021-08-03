@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-02 01:13:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 01:13:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 01:13:19 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2020-12-02 03:39:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 04:31:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 05:13:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 05:52:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 09:18:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 10:28:41 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2020-12-02 10:28:42 --> 404 Page Not Found: Wp-includes/fonts
+ERROR - 2020-12-02 10:58:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 12:36:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 12:37:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 12:38:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 12:39:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 12:41:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 12:43:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 12:44:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-02 13:33:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 15:23:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 16:35:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 17:09:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 18:06:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 18:17:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 18:17:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 21:26:46 --> 404 Page Not Found: Env/index
+ERROR - 2020-12-02 21:26:48 --> 404 Page Not Found: Env/index
+ERROR - 2020-12-02 23:38:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 23:54:42 --> 404 Page Not Found: Sitemapxmlgz/index

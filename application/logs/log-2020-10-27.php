@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-27 00:27:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 00:38:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 02:06:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 02:58:44 --> 404 Page Not Found: Configurationphp_old/index
+ERROR - 2020-10-27 02:58:44 --> 404 Page Not Found: Configurationphp_Old/index
+ERROR - 2020-10-27 02:58:44 --> 404 Page Not Found: Configurationphpnew/index
+ERROR - 2020-10-27 02:58:45 --> 404 Page Not Found: Configurationphpold/index
+ERROR - 2020-10-27 02:58:45 --> 404 Page Not Found: Configurationphp_new/index
+ERROR - 2020-10-27 02:58:45 --> 404 Page Not Found: Configurationbak/index
+ERROR - 2020-10-27 02:58:46 --> 404 Page Not Found: Configurationphpbak/index
+ERROR - 2020-10-27 02:58:46 --> 404 Page Not Found: Configurationphp_bak/index
+ERROR - 2020-10-27 02:58:46 --> 404 Page Not Found: Configurationphp-bak/index
+ERROR - 2020-10-27 04:11:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 09:20:58 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-27 09:21:28 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-27 09:48:49 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-27 09:49:19 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-27 10:59:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 12:48:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 15:08:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 16:59:19 --> 404 Page Not Found: Env/index
+ERROR - 2020-10-27 16:59:30 --> 404 Page Not Found: Env/index
+ERROR - 2020-10-27 19:18:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 19:38:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 20:54:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 21:39:22 --> 404 Page Not Found: App/etc
+ERROR - 2020-10-27 23:58:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 23:58:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 23:58:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-27 23:58:03 --> 404 Page Not Found: Robotstxt/index

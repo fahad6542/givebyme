@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-16 00:05:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 00:05:05 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-01-16 00:10:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 00:10:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-01-16 00:10:42 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2021-01-16 00:10:42 --> 404 Page Not Found: Blog/index
+ERROR - 2021-01-16 00:10:42 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-01-16 00:10:42 --> 404 Page Not Found: Wp/index
+ERROR - 2021-01-16 00:10:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 00:10:43 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2021-01-16 00:10:43 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2021-01-16 00:10:43 --> 404 Page Not Found: Blog/administrator
+ERROR - 2021-01-16 00:10:43 --> 404 Page Not Found: Joomla/robots.txt
+ERROR - 2021-01-16 00:10:44 --> 404 Page Not Found: Joomla/administrator
+ERROR - 2021-01-16 00:10:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 00:10:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 05:56:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 09:34:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 10:57:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 11:45:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 14:28:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 16:51:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-16 17:31:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 17:31:10 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-01-16 17:57:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 20:46:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-16 20:46:45 --> 404 Page Not Found: Asset-manifestjson/index
+ERROR - 2021-01-16 22:50:08 --> 404 Page Not Found: Robotstxt/index

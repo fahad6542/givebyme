@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-25 02:08:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 04:27:22 --> 404 Page Not Found: Env/index
+ERROR - 2020-09-25 04:35:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 06:42:32 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-25 06:42:35 --> 404 Page Not Found: Api/vendor
+ERROR - 2020-09-25 06:42:39 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-25 06:42:44 --> 404 Page Not Found: Modules/autoupgrade
+ERROR - 2020-09-25 06:43:22 --> 404 Page Not Found: Test/vendor
+ERROR - 2020-09-25 06:45:29 --> 404 Page Not Found: Testing/vendor
+ERROR - 2020-09-25 06:45:50 --> 404 Page Not Found: Core/vendor
+ERROR - 2020-09-25 06:46:08 --> 404 Page Not Found: Mahara/auth
+ERROR - 2020-09-25 06:46:33 --> 404 Page Not Found: Concrete/vendor
+ERROR - 2020-09-25 06:47:45 --> 404 Page Not Found: Mapa/vendor
+ERROR - 2020-09-25 06:48:06 --> 404 Page Not Found: Platform/vendor
+ERROR - 2020-09-25 06:49:00 --> 404 Page Not Found: Pro/vendor
+ERROR - 2020-09-25 06:49:20 --> 404 Page Not Found: Www/vendor
+ERROR - 2020-09-25 06:49:58 --> 404 Page Not Found: Old/vendor
+ERROR - 2020-09-25 06:50:52 --> 404 Page Not Found: Beta/vendor
+ERROR - 2020-09-25 06:51:20 --> 404 Page Not Found: Pms/vendor
+ERROR - 2020-09-25 06:51:57 --> 404 Page Not Found: Test/med-decision
+ERROR - 2020-09-25 06:52:51 --> 404 Page Not Found: Site/PortalEscolar
+ERROR - 2020-09-25 06:52:56 --> 404 Page Not Found: Dev/vendor
+ERROR - 2020-09-25 06:53:52 --> 404 Page Not Found: Administration/vendor
+ERROR - 2020-09-25 06:54:20 --> 404 Page Not Found: Login/vendor
+ERROR - 2020-09-25 06:56:08 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-09-25 10:21:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 15:37:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 16:11:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 18:17:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 20:15:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 20:38:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-25 20:45:26 --> 404 Page Not Found: Robotstxt/index

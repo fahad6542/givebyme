@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-19 04:53:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-19 06:11:17 --> 404 Page Not Found: Env/index
+ERROR - 2020-07-19 06:11:22 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-07-19 06:16:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-19 06:16:18 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2020-07-19 06:16:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-19 07:39:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-19 08:02:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-19 09:08:59 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-07-19 09:09:00 --> 404 Page Not Found: Wp-configphp1/index
+ERROR - 2020-07-19 09:09:02 --> 404 Page Not Found: Wp-configphpswp/index
+ERROR - 2020-07-19 09:09:04 --> 404 Page Not Found: Wp-configphpdisabled/index
+ERROR - 2020-07-19 09:09:06 --> 404 Page Not Found: Wp-configbak/index
+ERROR - 2020-07-19 09:09:09 --> 404 Page Not Found: Wp-configphpnew/index
+ERROR - 2020-07-19 09:09:11 --> 404 Page Not Found: Wp-configphpold/index
+ERROR - 2020-07-19 09:09:14 --> 404 Page Not Found: Wp-configphpbak/index
+ERROR - 2020-07-19 09:09:15 --> 404 Page Not Found: Wp-configphpbackup/index
+ERROR - 2020-07-19 09:09:17 --> 404 Page Not Found: Wp-configphpsave/index
+ERROR - 2020-07-19 09:09:29 --> 404 Page Not Found: Wp-configphp~/index
+ERROR - 2020-07-19 09:09:30 --> 404 Page Not Found: Wp-configphp_/index
+ERROR - 2020-07-19 09:09:32 --> 404 Page Not Found: Wp-configphporig/index
+ERROR - 2020-07-19 09:09:34 --> 404 Page Not Found: Wp-configphp_orig/index
+ERROR - 2020-07-19 09:09:35 --> 404 Page Not Found: Wp-configphporiginal/index
+ERROR - 2020-07-19 09:09:38 --> 404 Page Not Found: Wp-configphp_original/index
+ERROR - 2020-07-19 09:09:42 --> 404 Page Not Found: Wp-configphp-original/index
+ERROR - 2020-07-19 09:09:48 --> 404 Page Not Found: Wp-configphporiginal/index
+ERROR - 2020-07-19 10:36:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-19 17:53:41 --> 404 Page Not Found: Robotstxt/index

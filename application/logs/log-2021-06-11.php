@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-11 00:22:16 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-06-11 00:22:21 --> 404 Page Not Found: Plugins/content
+ERROR - 2021-06-11 00:22:25 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-06-11 00:22:29 --> 404 Page Not Found: Plugins/content
+ERROR - 2021-06-11 02:17:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 05:31:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-11 05:31:21 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-06-11 05:31:23 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-06-11 05:31:25 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-06-11 06:14:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 08:02:23 --> 404 Page Not Found: Env/index
+ERROR - 2021-06-11 09:18:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 10:05:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 10:25:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-11 10:29:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-11 10:29:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-11 12:18:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 12:19:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 12:19:22 --> 404 Page Not Found: Campaign/detail
+ERROR - 2021-06-11 14:35:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 15:53:57 --> 404 Page Not Found: Adminphp/index
+ERROR - 2021-06-11 15:54:35 --> 404 Page Not Found: Adminphp/index
+ERROR - 2021-06-11 17:11:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 17:15:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-06-11 20:42:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 20:42:20 --> 404 Page Not Found: StripePost/index
+ERROR - 2021-06-11 23:06:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 23:06:10 --> 404 Page Not Found: Robotstxt/index

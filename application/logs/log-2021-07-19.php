@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-19 05:52:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 06:50:06 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-07-19 06:50:07 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-07-19 06:50:07 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-07-19 06:50:07 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-07-19 06:50:07 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-07-19 06:50:07 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-07-19 06:50:08 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-07-19 06:50:08 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-07-19 06:50:08 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-07-19 06:50:08 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-07-19 06:50:08 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-07-19 06:50:08 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-07-19 06:50:09 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-07-19 06:50:09 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-07-19 06:50:13 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-07-19 06:50:13 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-07-19 06:50:13 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-07-19 08:32:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 08:35:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 13:55:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 14:26:34 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-07-19 15:51:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-19 16:14:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 16:14:49 --> 404 Page Not Found: StripeSub/index
+ERROR - 2021-07-19 18:45:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 20:23:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-19 22:46:51 --> 404 Page Not Found: Robotstxt/index

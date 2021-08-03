@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-03 02:26:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 02:26:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 04:34:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 07:05:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 17:18:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 17:22:20 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-06-03 17:23:27 --> 404 Page Not Found: Old/wp-includes
+ERROR - 2020-06-03 17:23:45 --> 404 Page Not Found: Backup/wp-includes
+ERROR - 2020-06-03 17:24:28 --> 404 Page Not Found: En/wp-includes
+ERROR - 2020-06-03 17:24:44 --> 404 Page Not Found: Demo/wp-includes
+ERROR - 2020-06-03 17:24:59 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-06-03 17:26:05 --> 404 Page Not Found: Dev/wp-includes
+ERROR - 2020-06-03 17:26:21 --> 404 Page Not Found: Home/wp-includes
+ERROR - 2020-06-03 17:27:12 --> 404 Page Not Found: Www/wp-includes
+ERROR - 2020-06-03 17:27:55 --> 404 Page Not Found: Beta/wp-includes
+ERROR - 2020-06-03 17:28:11 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-06-03 17:28:52 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-06-03 17:29:08 --> 404 Page Not Found: Main/wp-includes
+ERROR - 2020-06-03 17:29:23 --> 404 Page Not Found: Newsite/wp-includes
+ERROR - 2020-06-03 17:29:39 --> 404 Page Not Found: V2/wp-includes
+ERROR - 2020-06-03 17:29:54 --> 404 Page Not Found: Oldsite/wp-includes
+ERROR - 2020-06-03 17:31:50 --> 404 Page Not Found: Portal/wp-includes
+ERROR - 2020-06-03 17:32:07 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-06-03 17:32:23 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-06-03 17:33:29 --> 404 Page Not Found: V1/wp-includes
+ERROR - 2020-06-03 17:33:44 --> 404 Page Not Found: 1/wp-includes
+ERROR - 2020-06-03 17:34:25 --> 404 Page Not Found: Store/wp-includes
+ERROR - 2020-06-03 17:34:41 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-06-03 17:34:56 --> 404 Page Not Found: Blogs/wp-includes
+ERROR - 2020-06-03 18:27:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 19:30:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-03 23:44:48 --> 404 Page Not Found: Robotstxt/index

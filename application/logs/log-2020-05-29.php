@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-29 07:41:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-29 07:51:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-29 17:53:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-29 18:48:09 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-29 19:05:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-29 19:11:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-29 23:21:16 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-29 23:21:20 --> 404 Page Not Found: Api/.env
+ERROR - 2020-05-29 23:21:25 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-05-29 23:21:29 --> 404 Page Not Found: Test/.env
+ERROR - 2020-05-29 23:21:33 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-05-29 23:21:38 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-05-29 23:21:43 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-05-29 23:21:48 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-05-29 23:21:53 --> 404 Page Not Found: System/.env
+ERROR - 2020-05-29 23:21:58 --> 404 Page Not Found: Public/.env
+ERROR - 2020-05-29 23:22:03 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-05-29 23:53:29 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-29 23:53:33 --> 404 Page Not Found: Api/.env
+ERROR - 2020-05-29 23:53:38 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-05-29 23:53:42 --> 404 Page Not Found: Test/.env
+ERROR - 2020-05-29 23:53:46 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-05-29 23:53:50 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-05-29 23:53:55 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-05-29 23:54:00 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-05-29 23:54:04 --> 404 Page Not Found: System/.env
+ERROR - 2020-05-29 23:54:09 --> 404 Page Not Found: Public/.env
+ERROR - 2020-05-29 23:54:14 --> 404 Page Not Found: Shop/.env

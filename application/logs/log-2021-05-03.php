@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-03 02:57:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 03:30:44 --> 404 Page Not Found: Asset/plugins
+ERROR - 2021-05-03 03:30:44 --> 404 Page Not Found: Asset/plugins
+ERROR - 2021-05-03 04:49:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 06:04:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 08:27:09 --> 404 Page Not Found: Plugins/elFinder
+ERROR - 2021-05-03 08:27:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-05-03 10:32:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-03 10:58:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 11:17:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-03 15:12:25 --> 404 Page Not Found: Admin/elFinder
+ERROR - 2021-05-03 15:12:44 --> 404 Page Not Found: Assets/global
+ERROR - 2021-05-03 15:12:44 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-03 15:12:48 --> 404 Page Not Found: Assets/jqueryupload
+ERROR - 2021-05-03 15:12:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-05-03 18:15:16 --> 404 Page Not Found: Sxd/sxd.js
+ERROR - 2021-05-03 18:15:17 --> 404 Page Not Found: SypexDumper/sxd
+ERROR - 2021-05-03 18:15:17 --> 404 Page Not Found: Dumper/sxd.js
+ERROR - 2021-05-03 18:15:18 --> 404 Page Not Found: Admin/dumper
+ERROR - 2021-05-03 18:15:18 --> 404 Page Not Found: Admin/sxd
+ERROR - 2021-05-03 18:15:19 --> 404 Page Not Found: Backup/sxd
+ERROR - 2021-05-03 18:15:19 --> 404 Page Not Found: Dump/sxd.js
+ERROR - 2021-05-03 19:24:01 --> 404 Page Not Found: Old-indexphp/index
+ERROR - 2021-05-03 19:31:11 --> 404 Page Not Found: Old-indexphp/index
+ERROR - 2021-05-03 19:47:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 19:47:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 19:50:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-03 22:16:30 --> 404 Page Not Found: Robotstxt/index

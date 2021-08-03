@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-24 01:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 02:09:07 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-24 02:09:17 --> 404 Page Not Found: Api/.env
+ERROR - 2020-05-24 02:09:26 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-05-24 02:09:37 --> 404 Page Not Found: Test/.env
+ERROR - 2020-05-24 02:09:46 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-05-24 02:09:56 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-05-24 02:10:06 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-05-24 02:10:16 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-05-24 02:10:26 --> 404 Page Not Found: System/.env
+ERROR - 2020-05-24 02:10:37 --> 404 Page Not Found: Public/.env
+ERROR - 2020-05-24 02:10:48 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-05-24 02:36:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 03:20:08 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-24 03:20:09 --> 404 Page Not Found: Api/.env
+ERROR - 2020-05-24 03:20:11 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-05-24 03:20:13 --> 404 Page Not Found: Test/.env
+ERROR - 2020-05-24 03:20:20 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-05-24 03:20:30 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-05-24 03:20:38 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-05-24 03:20:48 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-05-24 03:20:57 --> 404 Page Not Found: System/.env
+ERROR - 2020-05-24 03:21:06 --> 404 Page Not Found: Public/.env
+ERROR - 2020-05-24 03:21:15 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-05-24 03:52:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 05:06:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 07:52:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 09:24:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 20:28:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-24 23:56:51 --> 404 Page Not Found: Robotstxt/index

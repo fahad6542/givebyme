@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-25 01:25:16 --> 404 Page Not Found: Wp-configphp/index
+ERROR - 2020-10-25 01:25:17 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-10-25 01:25:17 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-25 01:25:18 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-25 01:25:18 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-25 01:25:18 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-25 01:49:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 01:49:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 02:24:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 02:36:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 07:57:28 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2020-10-25 07:57:28 --> 404 Page Not Found: Administrator/help
+ERROR - 2020-10-25 07:57:28 --> 404 Page Not Found: Administrator/language
+ERROR - 2020-10-25 07:57:28 --> 404 Page Not Found: Plugins/system
+ERROR - 2020-10-25 07:57:28 --> 404 Page Not Found: Administrator/index
+ERROR - 2020-10-25 07:57:28 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2020-10-25 07:57:29 --> 404 Page Not Found: Admin/view
+ERROR - 2020-10-25 07:57:29 --> 404 Page Not Found: Admin/includes
+ERROR - 2020-10-25 07:57:29 --> 404 Page Not Found: Images/editor
+ERROR - 2020-10-25 07:57:29 --> 404 Page Not Found: Js/header-rollup-554.js
+ERROR - 2020-10-25 07:57:29 --> 404 Page Not Found: Env/index
+ERROR - 2020-10-25 11:29:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 12:53:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 15:41:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 15:42:50 --> 404 Page Not Found: Campaign/detail
+ERROR - 2020-10-25 16:08:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 17:17:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 17:28:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 18:48:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 20:17:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-25 21:21:48 --> 404 Page Not Found: Robotstxt/index

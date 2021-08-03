@@ -1,0 +1,83 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-15 00:27:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 00:27:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 01:18:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 02:37:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 04:18:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 04:55:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 05:27:18 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-15 05:27:24 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-15 05:27:30 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-15 05:27:35 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-15 05:27:40 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-15 05:27:45 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-09-15 05:27:51 --> 404 Page Not Found: Wp-admin/vendor
+ERROR - 2020-09-15 05:27:58 --> 404 Page Not Found: Wp-admin/vendor
+ERROR - 2020-09-15 05:28:03 --> 404 Page Not Found: Wp-admin/vendor
+ERROR - 2020-09-15 05:28:08 --> 404 Page Not Found: Wp-admin/vendor
+ERROR - 2020-09-15 05:28:15 --> 404 Page Not Found: Wp-admin/vendor
+ERROR - 2020-09-15 05:28:22 --> 404 Page Not Found: Wp-admin/vendor
+ERROR - 2020-09-15 05:28:28 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 05:28:33 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 05:28:40 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 05:28:46 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 05:28:52 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 05:29:00 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 05:29:10 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-15 05:29:25 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-15 05:29:41 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-15 05:29:53 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-15 05:30:08 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-15 05:30:20 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-09-15 05:30:36 --> 404 Page Not Found: Lib/phpunit
+ERROR - 2020-09-15 05:30:52 --> 404 Page Not Found: Lib/phpunit
+ERROR - 2020-09-15 05:31:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 05:31:07 --> 404 Page Not Found: Lib/phpunit
+ERROR - 2020-09-15 05:31:23 --> 404 Page Not Found: Lib/phpunit
+ERROR - 2020-09-15 05:31:35 --> 404 Page Not Found: Lib/phpunit
+ERROR - 2020-09-15 05:31:51 --> 404 Page Not Found: Lib/phpunit
+ERROR - 2020-09-15 05:32:03 --> 404 Page Not Found: Env/index
+ERROR - 2020-09-15 05:32:08 --> 404 Page Not Found: Conf/.env
+ERROR - 2020-09-15 05:32:13 --> 404 Page Not Found: Wp-content/.env
+ERROR - 2020-09-15 05:32:19 --> 404 Page Not Found: Wp-admin/library
+ERROR - 2020-09-15 05:32:25 --> 404 Page Not Found: New/.env
+ERROR - 2020-09-15 05:32:33 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-09-15 05:32:38 --> 404 Page Not Found: Old/.env
+ERROR - 2020-09-15 05:32:42 --> 404 Page Not Found: Local/.env
+ERROR - 2020-09-15 05:32:48 --> 404 Page Not Found: Api/.env
+ERROR - 2020-09-15 05:32:53 --> 404 Page Not Found: Blog/.env
+ERROR - 2020-09-15 05:32:59 --> 404 Page Not Found: Crm/.env
+ERROR - 2020-09-15 05:33:05 --> 404 Page Not Found: Admin/.env
+ERROR - 2020-09-15 05:33:10 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-09-15 05:33:16 --> 404 Page Not Found: App/.env
+ERROR - 2020-09-15 05:33:21 --> 404 Page Not Found: App/client
+ERROR - 2020-09-15 05:33:28 --> 404 Page Not Found: App/config
+ERROR - 2020-09-15 05:33:33 --> 404 Page Not Found: App/config
+ERROR - 2020-09-15 05:33:38 --> 404 Page Not Found: App/frontend
+ERROR - 2020-09-15 05:33:43 --> 404 Page Not Found: Apps/.env
+ERROR - 2020-09-15 05:33:48 --> 404 Page Not Found: Audio/.env
+ERROR - 2020-09-15 05:33:54 --> 404 Page Not Found: Cgi-bin/.env
+ERROR - 2020-09-15 05:33:59 --> 404 Page Not Found: Backend/.env
+ERROR - 2020-09-15 05:34:10 --> 404 Page Not Found: Src/.env
+ERROR - 2020-09-15 05:34:18 --> 404 Page Not Found: Base/.env
+ERROR - 2020-09-15 05:34:22 --> 404 Page Not Found: Core/.env
+ERROR - 2020-09-15 05:34:28 --> 404 Page Not Found: Vendor/laravel
+ERROR - 2020-09-15 05:34:34 --> 404 Page Not Found: Drupal/.env
+ERROR - 2020-09-15 05:34:39 --> 404 Page Not Found: Protected/.env
+ERROR - 2020-09-15 05:34:46 --> 404 Page Not Found: Newsite/.env
+ERROR - 2020-09-15 05:34:54 --> 404 Page Not Found: Www/.env
+ERROR - 2020-09-15 05:34:59 --> 404 Page Not Found: Sites/all
+ERROR - 2020-09-15 06:03:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 09:30:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 12:41:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add' at line 5 - Invalid query: SELECT p.*,donation.Donors,IFNULL(donation.tDonation,0) AS currentInvestmentAmount,donation.createTime,user.account_type 
+FROM `projects` AS p 
+LEFT JOIN (SELECT pid,COUNT(pid) AS Donors,SUM(total) AS tDonation,createTime FROM `transactions` GROUP BY pid) AS donation ON p.pid=donation.pid
+INNER JOIN user ON p.added_by = user.uid
+ WHERE p.status=1 AND p.pid = add 
+ERROR - 2020-09-15 13:10:38 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-09-15 20:20:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 21:39:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 22:21:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 22:35:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-15 23:51:16 --> 404 Page Not Found: Robotstxt/index

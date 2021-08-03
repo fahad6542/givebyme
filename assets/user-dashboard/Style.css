@@ -1,0 +1,84 @@
+/* 
+    Author     : Fahad
+*/
+.file-row-container .file-row:nth-child(2) .form-group a.del-row{
+    display:none;
+}
+.del-row{
+    font-weight: bold;
+    color: #ff0000;
+    -ms-transform: rotate(20deg); /* IE 9 */
+  -webkit-transform: rotate(20deg); /* Safari 3-8 */
+  transform: rotate(20deg);
+  text-decoration: none;
+}
+.left-gap{
+    border-left: 1px #FFFFFF solid;
+}
+.i-detail-title{
+     text-transform:capitalize;
+}
+#overlay {
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2;
+  cursor: pointer;
+}
+
+#text{
+  position: absolute;
+  top: 55%;
+  left: 56%;
+  font-size: 30px;
+  color: white;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  width: 360px;
+}
+.loader {
+    margin-left: 134px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 60px;
+  height: 60px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.plan-amount li{
+    list-style: none;
+    float: left;
+    padding-right: 13px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.plan-amount li .currency-lable{
+    float: left;
+}
+.plan-amount li .form-control{
+    float: left;
+    width: 85px;
+    font-size: 25px;
+}
+.plan-amount li .interval{
+    float: left;
+}

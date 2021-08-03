@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-04 01:24:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 01:30:18 --> 404 Page Not Found: Env/index
+ERROR - 2021-03-04 01:30:19 --> 404 Page Not Found: Vendor/.env
+ERROR - 2021-03-04 01:30:19 --> 404 Page Not Found: Storage/.env
+ERROR - 2021-03-04 01:30:20 --> 404 Page Not Found: Public/.env
+ERROR - 2021-03-04 02:08:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 03:16:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 04:32:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 04:46:24 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-04 04:46:44 --> 404 Page Not Found: Public/assets
+ERROR - 2021-03-04 04:46:51 --> 404 Page Not Found: Assets/file-uploader
+ERROR - 2021-03-04 04:46:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-03-04 04:46:56 --> 404 Page Not Found: Assets/global
+ERROR - 2021-03-04 07:21:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 07:31:05 --> 404 Page Not Found: CONTACT-US/index
+ERROR - 2021-03-04 08:14:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 09:56:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 10:10:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-03-04 10:22:06 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-04 10:22:06 --> 404 Page Not Found: Public/admin
+ERROR - 2021-03-04 10:22:06 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-04 10:22:24 --> 404 Page Not Found: Public/assets
+ERROR - 2021-03-04 10:22:24 --> 404 Page Not Found: Public/assets
+ERROR - 2021-03-04 13:18:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 14:16:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 16:00:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-04 16:05:58 --> 404 Page Not Found: Application/assets
+ERROR - 2021-03-04 16:05:58 --> 404 Page Not Found: Application/assets
+ERROR - 2021-03-04 16:05:58 --> 404 Page Not Found: Application/assets
+ERROR - 2021-03-04 16:06:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-03-04 16:06:19 --> 404 Page Not Found: Plugins/jquery-file-upload
+ERROR - 2021-03-04 22:33:46 --> 404 Page Not Found: CONTACT-US/index
+ERROR - 2021-03-04 22:55:55 --> 404 Page Not Found: Robotstxt/index

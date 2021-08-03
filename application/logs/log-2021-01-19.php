@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-19 03:24:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 03:24:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 04:09:46 --> 404 Page Not Found: Application/admin
+ERROR - 2021-01-19 04:09:46 --> 404 Page Not Found: Application/admin
+ERROR - 2021-01-19 04:09:49 --> 404 Page Not Found: Application/admin
+ERROR - 2021-01-19 04:11:19 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-01-19 04:12:28 --> 404 Page Not Found: Env/index
+ERROR - 2021-01-19 04:25:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 06:28:47 --> 404 Page Not Found: Kcfinder/browse.php
+ERROR - 2021-01-19 06:29:00 --> 404 Page Not Found: Admin/ckeditor
+ERROR - 2021-01-19 06:29:01 --> 404 Page Not Found: Admin/kcfinder
+ERROR - 2021-01-19 06:29:01 --> 404 Page Not Found: Js/kcfinder
+ERROR - 2021-01-19 06:29:02 --> 404 Page Not Found: Assets/ckeditor
+ERROR - 2021-01-19 06:29:02 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-19 06:29:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-01-19 06:29:03 --> 404 Page Not Found: Ckeditor/kcfinder
+ERROR - 2021-01-19 06:29:04 --> 404 Page Not Found: Panel/kcfinder
+ERROR - 2021-01-19 08:21:23 --> 404 Page Not Found: Env/index
+ERROR - 2021-01-19 10:03:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-19 10:03:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-19 11:28:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 11:28:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 11:28:34 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-01-19 13:33:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 13:41:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 14:53:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 21:05:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-19 22:30:38 --> 404 Page Not Found: Robotstxt/index

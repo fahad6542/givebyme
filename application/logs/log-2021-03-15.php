@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-15 00:11:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 00:21:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 02:56:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 03:38:34 --> 404 Page Not Found: Configbakphp/index
+ERROR - 2021-03-15 04:24:35 --> 404 Page Not Found: Configbakphp/index
+ERROR - 2021-03-15 08:56:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 08:56:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 08:56:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 08:56:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 08:56:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 10:16:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-03-15 12:44:59 --> 404 Page Not Found: Env/index
+ERROR - 2021-03-15 12:45:00 --> 404 Page Not Found: Api/.env
+ERROR - 2021-03-15 12:45:00 --> 404 Page Not Found: Laravel/.env
+ERROR - 2021-03-15 12:45:00 --> 404 Page Not Found: Test/.env
+ERROR - 2021-03-15 12:45:02 --> 404 Page Not Found: Admin/.env
+ERROR - 2021-03-15 12:45:02 --> 404 Page Not Found: Vendor/.env
+ERROR - 2021-03-15 12:45:02 --> 404 Page Not Found: Sites/.env
+ERROR - 2021-03-15 12:45:03 --> 404 Page Not Found: Blog/.env
+ERROR - 2021-03-15 16:59:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 19:14:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 21:45:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 21:45:08 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-03-15 21:45:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-15 21:47:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-15 22:06:16 --> 404 Page Not Found: Miniphp/index
+ERROR - 2021-03-15 22:06:18 --> 404 Page Not Found: Miniphp/index
+ERROR - 2021-03-15 22:26:15 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2021-03-15 23:41:54 --> 404 Page Not Found: Robotstxt/index
